@@ -1,2 +1,0 @@
-# nodenuxt
-Created with CodeSandbox
